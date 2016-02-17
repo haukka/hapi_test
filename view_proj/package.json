@@ -1,0 +1,16 @@
+{
+  "name": "hapi_view",
+  "version": "1.0.0",
+  "description": "use the ejs template with hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moss",
+  "license": "ISC",
+  "devDependencies": {
+    "ejs": "^2.4.1",
+    "hapi": "^13.0.0",
+    "vision": "^4.0.1"
+  }
+}
