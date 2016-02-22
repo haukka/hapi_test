@@ -1,0 +1,17 @@
+{
+  "name": "hapi_mongodb",
+  "version": "1.0.0",
+  "description": "Test mongodb with hapi",
+  "main": "hapi.js",
+  "dependencies": {},
+  "devDependencies": {
+    "hapi": "^13.0.0",
+    "hapi-mongodb": "^5.0.0",
+    "joi": "^8.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moss",
+  "license": "ISC"
+}
